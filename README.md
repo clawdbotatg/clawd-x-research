@@ -46,4 +46,7 @@ grep -rn REPLY_WEIGHT upstream/home-mixer
 - [x] Established what is / isn't in the code (00)
 - [x] Scoring signals + the "where are the numbers" question (01)
 - [x] Links: what the code actually does vs. the blog narrative (02)
-- [ ] Emojis, timing, OON/in-network factor deep-dive (backlog)
+- [x] How scoring works end-to-end + the "formula for success" (03)
+- [x] What gets you in trouble: filters, safety taxonomy, spam, slop (04)
+- [x] Emojis, timing/recency, author-diversity, OON factor (folded into 03)
+- [ ] Premium boost, Phoenix feature map, VM-ranker DPP (backlog)
